@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head > 
+        <title> tp2</title>
+    </head>
+    <
+    <body style="background-color: #A77979;">
+        <header style="background-color: #472d2d;"> 
+             
+                <table>
+                   <h1><tr><font color="white">GOMYCODE - Introduction to Web </font></tr></h1> 
+                   <h3><tr><a href="#">Syllabus d'Octobre 2022</a></h3>
+                    <tr> 
+                        
+                        </h3>
+                        
+                        <td><font color="white">Instructor: Ibrahim Bouabdallaoui</font> </td>
+                        <td><img src="C:\Users\ACCENT W5000\.config\go.png "></td>
+                        </h3>
+                        </tr>
+                        <tr>
+                            
+                        </tr>
+                        </table>
+ <h2><a href="C:\Users/ACCENT%20W5000/result/flor/hach/yassssssssssss.html">Contact GoMyCode for inquiries</a></h2>
+                </table>
+           
+        </header>
+        <section style="background-color: #A77979;">
+            <table border="1">
+                <tr>
+                    <td>semaine</td>
+                    <td>date</td>
+                    <td>skills</td>
+                    <td>checkpoint</td>
+                    <td>one to one</td>
+
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td> 22/10/2023<br> 23/10/2023</td>
+                    <td><ul>
+                        <li>introduction to web review</li>
+                    <li>brain storming</li>
+                <li>discussion</li>
+                <li><video width="320"height="240" controls>
+                    <source src="#">
+                </video></li>
+            </ul>
+                    </td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr> 
+                    <td>2</td>
+                    <td>29/10/2022<br>30/10/2022</td>
+                    <td><ul><li>web fondamentales</li>
+                    <li><a href="#">web introduction</a></li>
+                    <li><a href="#">the interntet vs web</a></li>
+                    <li><a href="#">The Protocols</a></li>
+                    <li><a href="#">Web Architecture</a></li>
+                    <li><a href="#">Servers and API</a></li>
+                    <li><a href="#">The Databases</a></li>
+                    <li><a href="#">Web Development</a></li>
+                    <li><a href="#">The Website Creation with CMS</a></li>
+                    <li><a href="#">Create a website with code</a></li>
+                    <li><a href="#">The Conclusion</a></li></ul></td>
+                     <td><a href="#">web introduction</a></td>
+                     <td><a href="#">web fondamentales</a></td>
+                     
+                </tr>
+                
+                
+            </table>
+            <footer><img src="C:\Users\ACCENT W5000\.config\1.png" width="60px">
+             contact me:<a href="#">yassebouha097@gmail.com</a>  <!-- <table>
+                    <tr>
+                        <td></td>
+                    <td> </td></tr>
+                </table>-->
+                
+            </footer>
+        </section>   
+
+            
+    </body>
+</html>
